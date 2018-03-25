@@ -31,11 +31,27 @@
     },
     "resources": [
         {
+            "Key": "000cbbe5-22db-48e1-8ac8-97527b8ef74e",
+            "Value": {
+                "id": "7fed179b-1db6-4f89-93ff-5568737fd3ed",
+                "resourcePath": "sounds\\sound_hit_by_car\\sound_hit_by_car.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "011d92e9-c809-4680-a81c-2c9f91968aac",
             "Value": {
                 "id": "713637e0-da79-4517-9e16-8714a2683bbb",
                 "resourcePath": "sprites\\spr_Frog\\spr_Frog.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "078dcfb3-e9e6-476c-92b9-d19672b75787",
+            "Value": {
+                "id": "303e1ccd-2cc2-4cf2-9d47-b2503c5c48bb",
+                "resourcePath": "sounds\\sound_you_win\\sound_you_win.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -60,6 +76,22 @@
                 "id": "29d121f5-23ad-48b1-b85d-5266c393172a",
                 "resourcePath": "views\\14e5482a-14cd-4ce5-b798-2d4e737c28cb.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "1baad996-4460-4947-9a31-fca6dd939135",
+            "Value": {
+                "id": "18cb5242-8ce6-4e9f-902e-07edbd9dfa68",
+                "resourcePath": "objects\\obj_log1\\obj_log1.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "1ccdb8ec-bbc7-4043-8030-b3b0cd42a9c2",
+            "Value": {
+                "id": "cd711055-8829-488c-be42-7aae367f1214",
+                "resourcePath": "sounds\\sound_falling_into_water\\sound_falling_into_water.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -103,6 +135,14 @@
             }
         },
         {
+            "Key": "2a6b4b6a-9cd5-4464-a9aa-a2cafd3b097b",
+            "Value": {
+                "id": "23511fb1-d47e-4641-89b2-ab5e4f15767a",
+                "resourcePath": "sounds\\sound_you_lose\\sound_you_lose.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "2eabcadf-182f-44d8-a83e-65e6351fd19c",
             "Value": {
                 "id": "a528dca2-03e6-47e6-8204-97c7b384a7ff",
@@ -119,6 +159,38 @@
             }
         },
         {
+            "Key": "33237d56-684e-485e-8e85-9d029232571c",
+            "Value": {
+                "id": "28e10269-45ed-4a44-a926-b7499dbb01bc",
+                "resourcePath": "sprites\\spr_frog_wall\\spr_frog_wall.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "33af8861-541d-4bda-9e0a-aa3764f2fea1",
+            "Value": {
+                "id": "11294b1c-86b5-4384-83f2-3af9a5339216",
+                "resourcePath": "sounds\\sound_traffic\\sound_traffic.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "36b05539-c79a-4d62-b480-f926b25def97",
+            "Value": {
+                "id": "e83f4a9d-dac5-4947-aa17-9addef0e1f1e",
+                "resourcePath": "objects\\obj_salamon_egg\\obj_salamon_egg.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "3dd93808-1aeb-4a24-a166-0a967408fa0f",
+            "Value": {
+                "id": "f30a93ad-e0be-4fd7-8640-d381a84805b8",
+                "resourcePath": "objects\\obj_turtle1\\obj_turtle1.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "4099bdcc-11c7-43ba-a21b-70847b91d604",
             "Value": {
                 "id": "25e4843f-23a4-4211-8ec8-d90d3f9636cc",
@@ -127,11 +199,27 @@
             }
         },
         {
+            "Key": "4ab8672c-486a-4234-afa2-0dbe217c2e2e",
+            "Value": {
+                "id": "34a894cf-733b-431b-8cda-035b83b80e1f",
+                "resourcePath": "objects\\obj_watery_grave\\obj_watery_grave.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "4b414413-159b-40b0-b7fb-7eb3fbcfc6b6",
             "Value": {
                 "id": "c39ca6ed-5b3f-4551-9d64-420f0f7f82a2",
                 "resourcePath": "sprites\\spr_turtles1\\spr_turtles1.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "512c7e85-1755-4df6-9857-c69bd1792f73",
+            "Value": {
+                "id": "563f8cd1-c570-4068-a65c-b2cf164f71d4",
+                "resourcePath": "objects\\obj_died_frog\\obj_died_frog.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -207,6 +295,14 @@
             }
         },
         {
+            "Key": "74160d57-d36b-4868-b8c5-8853657e51c6",
+            "Value": {
+                "id": "ee456dd4-b7e2-4dcd-aa7a-f323e7f52ab1",
+                "resourcePath": "objects\\obj_frog_wall\\obj_frog_wall.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "8d25c278-ea0d-43b7-a443-f30881432ee3",
             "Value": {
                 "id": "c56a6f4f-1caa-42be-a524-d492edf3e516",
@@ -228,6 +324,14 @@
                 "id": "0598df29-6a28-435d-9cde-af88280aa968",
                 "resourcePath": "views\\93bab507-25a8-4f0a-9345-79c1bcf7052c.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "942b99e3-57af-4d11-8fee-1221535c10e6",
+            "Value": {
+                "id": "fc63101c-acb1-4e29-b423-efe648c10ebb",
+                "resourcePath": "sounds\\sound_game_music\\sound_game_music.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -255,11 +359,27 @@
             }
         },
         {
+            "Key": "aa24aadc-6eff-47a8-a005-36d689834640",
+            "Value": {
+                "id": "3a4d6f1e-d613-4999-92c0-d966b3ad5ee1",
+                "resourcePath": "sounds\\sound_loot\\sound_loot.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "af76f1b0-002b-4cd4-b972-522c6c8c8456",
             "Value": {
                 "id": "1004fc60-9cb2-427c-8ada-a7f37d229f2e",
                 "resourcePath": "sprites\\spr_car2\\spr_car2.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "b064e2e8-815e-4694-8a0f-ecf12510e599",
+            "Value": {
+                "id": "ea52afb1-0cd4-4486-80d4-ac0bf51e6007",
+                "resourcePath": "fonts\\font_end_of_the_game\\font_end_of_the_game.yy",
+                "resourceType": "GMFont"
             }
         },
         {
@@ -332,6 +452,30 @@
                 "id": "1b0ccbf0-e42b-4ebf-9389-0813b72d35f1",
                 "resourcePath": "views\\db052616-415d-4d81-920d-65c6ae112cb4.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "df588292-4cdc-4dd4-a282-b8f453c85797",
+            "Value": {
+                "id": "0e5edfce-ebb6-4eaf-875f-5b82f6d2f23d",
+                "resourcePath": "sounds\\sound_rushing_water\\sound_rushing_water.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "e6629488-86a5-4a94-9822-39cb99f15aee",
+            "Value": {
+                "id": "27021679-2882-4fb0-ac15-a679032379d5",
+                "resourcePath": "objects\\obj_frog_controller\\obj_frog_controller.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "e6c01c0a-c8a9-4992-916b-6bcdb9f4a3d8",
+            "Value": {
+                "id": "9ac98d78-2a89-48cb-8be9-5454c775ca8e",
+                "resourcePath": "fonts\\font_lives_and_score\\font_lives_and_score.yy",
+                "resourceType": "GMFont"
             }
         },
         {

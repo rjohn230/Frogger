@@ -1,1 +1,1 @@
-speed=20
+speed=25

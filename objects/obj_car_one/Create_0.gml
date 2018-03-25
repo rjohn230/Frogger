@@ -1,2 +1,2 @@
 direction =0;
-speed = -5;
+speed = -10;
